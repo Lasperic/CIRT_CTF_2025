@@ -18,8 +18,22 @@ now remux it with a new framerate (24)
 
 ffmpeg -y -r 24 -i fuzz.h264 -c copy fuzz_faster.mp4
 
+It will still be long , but it the beginning you can see the full video.
 
 https://github.com/user-attachments/assets/f2e8e7b4-a964-448e-8723-615ba8cb8c54
+
+
+To fix this you can extract all the images from the video
+
+ffmpeg -r 1 -i fuzz.mp4 -r 1 output/"$fuzz%03d.png"
+
+Now stitch them together using ffmpeg 
+
+ffmpeg -r 30 -pattern_type glob -i 'output/*.png' -c:v libx264 out.mp4
+
+
+https://github.com/user-attachments/assets/5423cdb9-3afa-48fe-bb03-f3698949ece0
+
 
 
 
