@@ -18,3 +18,4 @@ Example solve
 
 
 
+<img width="657" height="226" alt="image" src="https://github.com/user-attachments/assets/ffcd21bc-a4f4-40e3-99f5-574a9e0b6555" />
