@@ -11,6 +11,7 @@ The description mentions PowerShell. Lets check the processes using Volatility:
 <img width="1217" height="67" alt="image" src="https://github.com/user-attachments/assets/c9f6f1c8-962d-4186-9c38-592d33edec8c" />
 
 Let's dump the contents of pid 6424
+
 vol -f vm.core -o out windows.memmap --pid 6424 --dump
 
 Search the dmp file for AES to see if we can get any hit on decryption key
