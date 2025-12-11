@@ -9,9 +9,17 @@ Category : Misc
 File : [ACTIONREQUIRED.xlsm](https://github.com/user-attachments/files/24108482/ACTIONREQUIRED.xlsm)
 
 
+
 <img width="500" height="27" alt="image" src="https://github.com/user-attachments/assets/3fd5a80f-16b7-4bb9-ba20-e62e68a021eb" />
+
+
 Private Const b64Trigger As String = "Q0lSVCBEZWNyeXB0b3I="
 
+
+
 <img width="1540" height="234" alt="image" src="https://github.com/user-attachments/assets/7960a74a-b85e-4798-91c3-9cb754d67751" />
+
+
+
 
 <img width="828" height="359" alt="image" src="https://github.com/user-attachments/assets/ab734d88-e104-497e-88dd-509bc5b7c705" />
