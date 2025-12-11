@@ -1,6 +1,8 @@
 Yokohama
 
 When loading the webpage you can notice this error.
+
+
 <img width="620" height="69" alt="image" src="https://github.com/user-attachments/assets/a0be8ce3-f839-4ccb-9d6e-7a707f876dfc" />
 
 
