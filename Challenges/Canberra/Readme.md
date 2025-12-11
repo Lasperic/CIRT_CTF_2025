@@ -1,4 +1,4 @@
-<img width="558" height="175" alt="image" src="https://github.com/user-attachments/assets/99a64894-420b-4bf0-9df4-02b8d20e344c" />Canberra
+Canberra
 
 Description : There appears to be a disputed charge with one of our vendors. The finance department says the CEO called them. I've pulled the network logs for that period. Can you analyze them?
 
