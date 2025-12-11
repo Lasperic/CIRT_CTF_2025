@@ -9,6 +9,7 @@ File : not.wav
 After getting the file , use WSL to check what file format it actually is 
 
 
+
 <img width="1058" height="64" alt="image" src="https://github.com/user-attachments/assets/b900500a-b6e6-4873-b6ad-40c6d4376447" />
 
 
