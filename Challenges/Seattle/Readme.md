@@ -19,7 +19,7 @@ Lets check the variables for the first process
 
 We can see the FLAG3_XOR_KEY set to 55. 
 
-Let's dump the VAD fr this process 
+Let's dump the VAD for this process 
 
 <img width="1521" height="879" alt="image" src="https://github.com/user-attachments/assets/ecfcbef8-de69-40a1-8d78-68b2c0568a18" />
 
