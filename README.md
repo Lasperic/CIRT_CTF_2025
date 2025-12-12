@@ -10,4 +10,4 @@ HxD [Hex Editor] : https://mh-nexus.de/en/hxd/
 Binary Ninja [Binary reverse engineering] : https://binary.ninja/
 
 
-CyberChef : [Any data encoding/decoding] : https://gchq.github.io/CyberChef/
+CyberChef [Any data encoding/decoding] : https://gchq.github.io/CyberChef/
