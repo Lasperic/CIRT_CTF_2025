@@ -19,6 +19,10 @@ Using exiftool you can see a base64 encoded field "Special Instructions"
 The base64 translates to : 
 Password for the hidden zip is : ThroughTheMountains!
 
+
+<img width="1299" height="225" alt="image" src="https://github.com/user-attachments/assets/652ccfae-8004-4218-a7cd-f724c177a742" />
+
+
 Use binwalk again to extract the zip file and use the password to extract it leading to plaintext flag
 
 <img width="1101" height="388" alt="image" src="https://github.com/user-attachments/assets/de3e7aa9-44ce-433e-ac9c-519c1c018428" />
