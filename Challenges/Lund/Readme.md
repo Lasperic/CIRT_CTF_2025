@@ -19,7 +19,7 @@ to unencrypt the dpapi blob we need
 Obtainable from the memory file
 <img width="1889" height="710" alt="image" src="https://github.com/user-attachments/assets/880b343e-4058-4e36-90c2-83a8ffbb8ba3" />
 
-2)mkmachie / secret / entropy
+2)mkmachine / secret / entropy
 Came archived with the challenge.
 
 Put them all through diana
