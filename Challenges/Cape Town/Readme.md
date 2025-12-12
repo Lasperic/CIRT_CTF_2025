@@ -1,6 +1,6 @@
 Cape Town
 
-Description : Site alarm still chirping. Found a janky arcade tablet in the break room, a bootleg  2048 clone.\r\nTiles feel normal, but the score counter twitches at oddly specific moments, like its winking at me. Im staying on it. Whatevers hidden here ties back to the containment code.
+Description : Site alarm still chirping. Found a janky arcade tablet in the break room, a bootleg  2048 clone. Tiles feel normal, but the score counter twitches at oddly specific moments, like its winking at me. Im staying on it. Whatevers hidden here ties back to the containment code.
 
 Category : Reverse Engineering
 
